@@ -23,3 +23,10 @@ let numbers = 33
 let convert_to_str = String(numbers);
 console.log(typeof convert_to_str);
 console.log( convert_to_str);
+
+let value = "Harsh"
+let str2 = " vathare"
+
+let str3 = value + str2;
+console.log(str3);
+

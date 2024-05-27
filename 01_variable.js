@@ -20,6 +20,6 @@ console.table([name, std_info, email, cities])
  most imp to use 'const' and 'let' veriables only..!
 */
 
-let bloodgp;
+let bloodgp= "0+"
 
 console.table([name, std_info, email, cities, bloodgp])
